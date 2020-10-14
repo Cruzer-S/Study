@@ -1,0 +1,3 @@
+# This is a repository for organizing what I'm studying.
+- Advanced Programming in the UNIX Environment (2020-07-03 ~ 2020-08-15)
+- C Programming: A Modern Approach (2020-09-07 ~ now)
