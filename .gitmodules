@@ -1,3 +1,6 @@
 [submodule "TCPL"]
 	path = TCPL
 	url = https://github.com/Cruzer-S/TCPL
+[submodule "K.N.K"]
+	path = K.N.K
+	url = https://github.com/Cruzer-S/K.N.K
