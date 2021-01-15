@@ -4,3 +4,6 @@
 [submodule "K.N.K"]
 	path = K.N.K
 	url = https://github.com/Cruzer-S/K.N.K
+[submodule "APUE"]
+	path = APUE
+	url = https://github.com/Cruzer-S/APUE
