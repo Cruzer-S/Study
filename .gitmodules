@@ -7,3 +7,6 @@
 [submodule "APUE"]
 	path = APUE
 	url = https://github.com/Cruzer-S/APUE
+[submodule "Django"]
+	path = Django
+	url = https://github.com/Cruzer-S/Django.git
