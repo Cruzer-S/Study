@@ -10,3 +10,6 @@
 [submodule "Django"]
 	path = Django
 	url = https://github.com/Cruzer-S/Django.git
+[submodule "JTPY"]
+	path = JTPY
+	url = https://github.com/Cruzer-S/JTPY.git
