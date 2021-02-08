@@ -13,3 +13,6 @@
 [submodule "JTPY"]
 	path = JTPY
 	url = https://github.com/Cruzer-S/JTPY.git
+[submodule "NodeJS"]
+	path = NodeJS
+	url = https://github.com/Cruzer-S/NodeJS.git
