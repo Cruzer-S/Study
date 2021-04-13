@@ -16,3 +16,6 @@
 [submodule "NodeJS"]
 	path = NodeJS
 	url = https://github.com/Cruzer-S/NodeJS.git
+[submodule "ALNP"]
+	path = ALNP
+	url = https://github.com/Cruzer-S/ALNP
