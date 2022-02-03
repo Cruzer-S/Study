@@ -19,3 +19,6 @@
 [submodule "ALNP"]
 	path = ALNP
 	url = https://github.com/Cruzer-S/ALNP
+[submodule "Linux-Internal"]
+	path = Linux-Internal
+	url = https://github.com/Cruzer-S/Linux-Internal.git
