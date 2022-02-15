@@ -22,3 +22,6 @@
 [submodule "Linux-Internal"]
 	path = Linux-Internal
 	url = https://github.com/Cruzer-S/Linux-Internal.git
+[submodule "CruzerOS"]
+	path = CruzerOS
+	url = https://github.com/Cruzer-S/CruzerOS.git
