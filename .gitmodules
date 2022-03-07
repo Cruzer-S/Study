@@ -25,3 +25,6 @@
 [submodule "CruzerOS"]
 	path = CruzerOS
 	url = https://github.com/Cruzer-S/CruzerOS.git
+[submodule "CPrimer"]
+	path = CPrimer
+	url = https://github.com/Cruzer-S/CPrimer.git
