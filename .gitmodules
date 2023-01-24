@@ -28,3 +28,6 @@
 [submodule "CPrimer"]
 	path = CPrimer
 	url = https://github.com/Cruzer-S/CPrimer.git
+[submodule "Modern-C/"]
+	path = Modern-C
+	url = https://github.com/Cruzer-S/Modern-C.git
