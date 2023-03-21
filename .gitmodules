@@ -31,3 +31,6 @@
 [submodule "Modern-C"]
 	path = Modern-C
 	url = https://github.com/Cruzer-S/Modern-C
+[submodule "MPGM"]
+	path = MPGM
+	url = https://github.com/Cruzer-S/MPGM
