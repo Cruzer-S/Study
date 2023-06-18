@@ -34,3 +34,6 @@
 [submodule "MPGM"]
 	path = MPGM
 	url = https://github.com/Cruzer-S/MPGM
+[submodule "CLCD"]
+	path = CLCD
+	url = https://github.com/Cruzer-S/CLCD
